@@ -3,20 +3,54 @@
 *.mp3
 *.zip
 *.exe
+*.c
+
+# Font files
 *.ttf
+
+# AVIF images
 *.avif
 
-# Image sequences (hundreds of frames)
-frames*.png
-bridges*.png
-build\ img*.webp
-
-# Large individual images / binary assets
+# General images (NOT the canvas frame sequences)
 *.jpg
 *.jpeg
-*.png
-*.webp
 *.gif
+
+# Exclude specific loose png/webp images that aren't canvas frames
+cocacola.png
+cocacola_logo.png
+logo.png
+magma.png
+facebook.png
+instagram.png
+twitter.png
+img01.png
+img02.png
+img03.jpg
+img04.png
+img05.jpg
+img06.png
+p1.jpg
+earth.jpg
+mars.jpg
+nature.jpg
+moutain.jpg
+anime_model.jpg
+ayonokoji.jpg
+kakashi-hatake-naruto-bw.jpg
+yash\ commerc.jpg
+mohil\ sir.jpg
+Coding.jpg
+logo\ 1.jpg
+bg\ pictures.jpg
+Black\ panthar.jpg
+1\ pic.jpg
+coffee\ 2.png
+pepsi001.png
+pepsi002.png
+pepsi003.png
+54.webp
+bg\ 14.png
 
 # OS files
 Thumbs.db
