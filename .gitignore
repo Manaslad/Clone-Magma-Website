@@ -1,5 +1,6 @@
 # Large media files
 *.mp4
+!magam.mp4
 *.mp3
 *.zip
 *.exe
